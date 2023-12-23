@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Job Portal App</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_description">Job Description</string>
+    <string name="job_budget">Budget</string>
+    <string name="job_contact_number">Contact Number</string>
+    <string name="job_location">Location</string>
+    <string name="add_job">Add Job</string>
+    <string name="edit_job">Edit Job</string>
+    <string name="update">Update</string>
+    <string name="delete_job">Delete Job</string>
+    <string name="budget_format">Budget: LKR%.2f</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+</resources>

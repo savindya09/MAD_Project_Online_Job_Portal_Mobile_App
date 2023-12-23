@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444416497465",
+    "firebase_url": "https://jobportal-1a523-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jobportal-1a523",
+    "storage_bucket": "jobportal-1a523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444416497465:android:f8d2f41f31cddfa6887ae8",
+        "android_client_info": {
+          "package_name": "com.example.jobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444416497465-jesofr4ha7v90fs5c6gv1oc312cl2p4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ryRWQCZ8waraieNkFYqiHS-Hbzpi_JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444416497465-jesofr4ha7v90fs5c6gv1oc312cl2p4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
